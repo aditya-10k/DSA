@@ -1,4 +1,4 @@
-class twosum {
+class twosum_brute {
     public static int[] twoSums(int[] nums, int target) {
 
         int out[] = new int [2] ;
